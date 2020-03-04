@@ -1,0 +1,10 @@
+{
+    "callbackWaitsForEmptyEventLoop": true,
+    "functionVersion": "5",
+    "functionName": "us-east-1.browser_wallet_set_response_header",
+    "memoryLimitInMB": "128",
+    "logGroupName": "/aws/lambda/us-east-1.browser_wallet_set_response_header",
+    "logStreamName": "2020/03/02/[5]ba74a57406ff4b81b5dbec0c0cc43a15",
+    "invokedFunctionArn": "arn:aws:lambda:ap-south-1:704700004548:function:us-east-1.browser_wallet_set_response_header:5",
+    "awsRequestId": "01209b9c-f6c5-4f4b-b52e-138f3b86ed5a"
+}

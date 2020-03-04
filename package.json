@@ -1,0 +1,25 @@
+{
+  "name": "ost-cloudfront-lambda",
+  "version": "1.0.0",
+  "description": "Edge Lambda Scripts for Setting Content-Security-Policy Response Headers",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node ./tests/valid_sdk_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostdotcom/ost-cloudfront-lambda.git"
+  },
+  "author": "Rachin Kapoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostdotcom/ost-cloudfront-lambda/issues"
+  },
+  "homepage": "https://github.com/ostdotcom/ost-cloudfront-lambda#readme",
+  "devDependencies": {
+    "zlib": "^1.0.5"
+  }
+}

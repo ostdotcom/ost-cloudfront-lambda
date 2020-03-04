@@ -1,0 +1,169 @@
+{
+    "Records": [
+        {
+            "cf": {
+                "config": {
+                    "distributionDomainName": "d3p66pota1i26a.cloudfront.net",
+                    "distributionId": "E328WKVFR3WZ8D",
+                    "eventType": "origin-response",
+                    "originRequestId": "Ane5WNGwo0E6ruiJ5c7c4jlf3g3cuqd_UaimQMoN1eyOtNteoLapOw==",
+                    "requestId": "V70FhfiKs-BRVtnPdy1YKvalpR2t-23uVMN7xaZAMI3ZPrsbF-6MHA=="
+                },
+                "request": {
+                    "clientIp": "114.143.238.58",
+                    "headers": {
+                        "x-forwarded-for": [
+                            {
+                                "key": "X-Forwarded-For",
+                                "value": "114.143.238.58"
+                            }
+                        ],
+                        "user-agent": [
+                            {
+                                "key": "User-Agent",
+                                "value": "Amazon CloudFront"
+                            }
+                        ],
+                        "via": [
+                            {
+                                "key": "Via",
+                                "value": "2.0 0693e7c1399468603875131553649285.cloudfront.net (CloudFront)"
+                            }
+                        ],
+                        "accept-encoding": [
+                            {
+                                "key": "Accept-Encoding",
+                                "value": "gzip"
+                            }
+                        ],
+                        "pragma": [
+                            {
+                                "key": "Pragma",
+                                "value": "no-cache"
+                            }
+                        ],
+                        "upgrade-insecure-requests": [
+                            {
+                                "key": "upgrade-insecure-requests",
+                                "value": "1"
+                            }
+                        ],
+                        "sec-fetch-dest": [
+                            {
+                                "key": "sec-fetch-dest",
+                                "value": "iframe"
+                            }
+                        ],
+                        "sec-fetch-site": [
+                            {
+                                "key": "sec-fetch-site",
+                                "value": "same-site"
+                            }
+                        ],
+                        "sec-fetch-mode": [
+                            {
+                                "key": "sec-fetch-mode",
+                                "value": "navigate"
+                            }
+                        ],
+                        "host": [
+                            {
+                                "key": "Host",
+                                "value": "wallet-km.stagingpepocoin.com.s3.amazonaws.com"
+                            }
+                        ],
+                        "cache-control": [
+                            {
+                                "key": "Cache-Control",
+                                "value": "no-cache"
+                            }
+                        ]
+                    },
+                    "method": "GET",
+                    "origin": {
+                        "s3": {
+                            "authMethod": "none",
+                            "customHeaders": {},
+                            "domainName": "wallet-km.stagingpepocoin.com.s3.amazonaws.com",
+                            "path": ""
+                        }
+                    },
+                    "querystring": "publicKeyHex=30820122300d06092a864886f70d01010105000382010f003082010a0282010100bfad699c3a40590a833ec66be1c47a11580e01aafabb37c88f8bb4ca1c13f8f5984185f7f22262e1fca0f41bc84d88a6df7f638234c7f0c2c1eabfc3f6ff20bc241b74695709c115d9a62c983156c27f1fb396d351923479b2206eeb3724df2de0627064bd2c128e74c5fcf41c0afe5649192d2b04bb191ce53f9b6f29c1e8f9e2bc6fefd9420e2c50f2c799ddfbc9edd6fde32639077e760c800216993c0202c7021e8ce2d83aab921ac0438fa3995be6bae601a7661ac779cb0e67cc08cd61b75ad06b68a31d3178c39a9cbefd4d0402440b03f19b34998cc783ed82b7b7e7d3b4ba3cfd9c4ebf19feb21a2e9f1bb900aa8f54181a12fa0bf23b69e13a87710203010001&sdkConfig%5Btoken_id%5D=1129&sdkConfig%5Bapi_endpoint%5D=https%3A%2F%2Fapi.stagingost.com%2Ftestnet%2Fv2%2F&sdkConfig%5Bsdk_endpoint%5D=https%3A%2F%2Fsdk-mappy.stagingpepocoin.com%2Fv-dev-12%2Findex.html&sdkConfig%5Bdebug%5D=false&sdkConfig%5Bcreate_session_qr_timeout%5D=10800&timestamp=1583155076498&signature=bf6aade52bbb1e7cf61e835fb0dc4d9675d93a9e9f166e702c5f067f3923c96bc58b373a1c3eba43bf08f9bf7df6d61436527d7c141d6e102733ef405a4e74f9752750cfa1cf128a0024fef1351d4f8a1b82a2c5e2dba3663534e1b3218263bc668f7bac056540e565dd6d94a468acdc088d809cf73c9c84d69f16274338a060bd36b3c483060badd5ddf0d89634ea48940d946a55262b3c87aa68a3aed81d8ab40836aad3084d0e139f1afc2874e1614a698205ae77bb87cbc71b8938cf6525a39752f9673e74743deb6c3d069ff654ab85a761121626e5522899b8a0d2c05242453c0fbf9c0eeca70e488eb00d1df6674c2d4d4ff29289170dc940bc65f869",
+                    "uri": "/v-dev-12/index.html"
+                },
+                "response": {
+                    "headers": {
+                        "x-amz-id-2": [
+                            {
+                                "key": "x-amz-id-2",
+                                "value": "LLfG8zdyHiKNuPvSzyxamzLuUTh0zPAQTjYut7BQCaRIIlIUNFmeJTB4HXXivGFKvE65vqu9y20="
+                            }
+                        ],
+                        "x-amz-request-id": [
+                            {
+                                "key": "x-amz-request-id",
+                                "value": "4FC60C6F52D663D6"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "key": "Date",
+                                "value": "Mon, 02 Mar 2020 13:17:58 GMT"
+                            }
+                        ],
+                        "last-modified": [
+                            {
+                                "key": "Last-Modified",
+                                "value": "Mon, 02 Mar 2020 11:59:32 GMT"
+                            }
+                        ],
+                        "etag": [
+                            {
+                                "key": "ETag",
+                                "value": "\"c7a9068efa8b1e8aabfc7c7a7638f66d\""
+                            }
+                        ],
+                        "cache-control": [
+                            {
+                                "key": "Cache-Control",
+                                "value": "max-age=300"
+                            }
+                        ],
+                        "x-amz-version-id": [
+                            {
+                                "key": "x-amz-version-id",
+                                "value": "tLEP4xPb8NOVUByMPS2PuaNAq_YtPGiw"
+                            }
+                        ],
+                        "accept-ranges": [
+                            {
+                                "key": "Accept-Ranges",
+                                "value": "bytes"
+                            }
+                        ],
+                        "server": [
+                            {
+                                "key": "Server",
+                                "value": "AmazonS3"
+                            }
+                        ],
+                        "content-type": [
+                            {
+                                "key": "Content-Type",
+                                "value": "text/html"
+                            }
+                        ],
+                        "content-length": [
+                            {
+                                "key": "Content-Length",
+                                "value": "273"
+                            }
+                        ]
+                    },
+                    "status": "200",
+                    "statusDescription": "OK"
+                }
+            }
+        }
+    ]
+}
