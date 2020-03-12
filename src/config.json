@@ -1,0 +1,9 @@
+{
+  "SDK_S3_HOST": "wallet-sdk.stagingpepocoin.com.s3.amazonaws.com",
+  "KM_S3_HOST": "wallet-km.stagingpepocoin.com.s3.amazonaws.com",
+  "SDK_KM_MAIN_DOMAIN": "stagingpepocoin.com",
+  "JS_ORIGIN": "https://stagingpepocoin.com/",
+  "PLATFORM_API_ORIGIN": "https://api.stagingost.com/",
+  "REDIRECT_URL": "about:blank",
+  "ALARM_LOG_TAG": "BSL_UNEXPECTED"
+}

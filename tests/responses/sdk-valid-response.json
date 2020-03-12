@@ -1,0 +1,151 @@
+{
+    "Records": [
+        {
+            "cf": {
+                "config": {
+                    "distributionDomainName": "d1as9ye4vcmj3q.cloudfront.net",
+                    "distributionId": "EG3A8R3I2X5W",
+                    "eventType": "origin-response",
+                    "originRequestId": "ARk3LQGIprIk5uTGyanz5yf3DuGYHBO2ozdxt8pzeoznM55uwo78-A==",
+                    "requestId": "JWQu1Qwe3qZChWaTDBsM8DKkhOmmuEa5g8jhxQRywb7lGdQsQMnVkA=="
+                },
+                "request": {
+                    "clientIp": "114.143.238.58",
+                    "headers": {
+                        "x-forwarded-for": [
+                            {
+                                "key": "X-Forwarded-For",
+                                "value": "114.143.238.58"
+                            }
+                        ],
+                        "user-agent": [
+                            {
+                                "key": "User-Agent",
+                                "value": "Amazon CloudFront"
+                            }
+                        ],
+                        "via": [
+                            {
+                                "key": "Via",
+                                "value": "2.0 0693e7c1399468603875131553649285.cloudfront.net (CloudFront)"
+                            }
+                        ],
+                        "if-modified-since": [
+                            {
+                                "key": "If-Modified-Since",
+                                "value": "Mon, 02 Mar 2020 11:59:33 GMT"
+                            }
+                        ],
+                        "if-none-match": [
+                            {
+                                "key": "If-None-Match",
+                                "value": "\"40130c6b1937c16df9c24b30e8696dc3\""
+                            }
+                        ],
+                        "accept-encoding": [
+                            {
+                                "key": "Accept-Encoding",
+                                "value": "gzip"
+                            }
+                        ],
+                        "upgrade-insecure-requests": [
+                            {
+                                "key": "upgrade-insecure-requests",
+                                "value": "1"
+                            }
+                        ],
+                        "sec-fetch-dest": [
+                            {
+                                "key": "sec-fetch-dest",
+                                "value": "document"
+                            }
+                        ],
+                        "sec-fetch-site": [
+                            {
+                                "key": "sec-fetch-site",
+                                "value": "none"
+                            }
+                        ],
+                        "sec-fetch-mode": [
+                            {
+                                "key": "sec-fetch-mode",
+                                "value": "navigate"
+                            }
+                        ],
+                        "host": [
+                            {
+                                "key": "Host",
+                                "value": "wallet-sdk.stagingpepocoin.com.s3.amazonaws.com"
+                            }
+                        ]
+                    },
+                    "method": "GET",
+                    "origin": {
+                        "s3": {
+                            "authMethod": "none",
+                            "customHeaders": {},
+                            "domainName": "wallet-sdk.stagingpepocoin.com.s3.amazonaws.com",
+                            "path": ""
+                        }
+                    },
+                    "querystring": "",
+                    "uri": "/v-dev-12/index.html"
+                },
+                "response": {
+                    "headers": {
+                        "x-amz-id-2": [
+                            {
+                                "key": "x-amz-id-2",
+                                "value": "wbpsdIch/Hp++ydDLZAMqixwQ6nF7yL45ugBEFAa7RPKHJ+FsDy+ppU6fk0cwAXBFqqTJBOW4G8="
+                            }
+                        ],
+                        "x-amz-request-id": [
+                            {
+                                "key": "x-amz-request-id",
+                                "value": "6AC0121FB6695BF7"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "key": "Date",
+                                "value": "Mon, 02 Mar 2020 15:46:12 GMT"
+                            }
+                        ],
+                        "last-modified": [
+                            {
+                                "key": "Last-Modified",
+                                "value": "Mon, 02 Mar 2020 11:59:33 GMT"
+                            }
+                        ],
+                        "etag": [
+                            {
+                                "key": "ETag",
+                                "value": "\"40130c6b1937c16df9c24b30e8696dc3\""
+                            }
+                        ],
+                        "cache-control": [
+                            {
+                                "key": "Cache-Control",
+                                "value": "max-age=300"
+                            }
+                        ],
+                        "x-amz-version-id": [
+                            {
+                                "key": "x-amz-version-id",
+                                "value": "5duEnEjAnmGeSa4CGBbHnGP0JucemANX"
+                            }
+                        ],
+                        "server": [
+                            {
+                                "key": "Server",
+                                "value": "AmazonS3"
+                            }
+                        ]
+                    },
+                    "status": "304",
+                    "statusDescription": "Not Modified"
+                }
+            }
+        }
+    ]
+}
