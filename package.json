@@ -1,6 +1,6 @@
 {
   "name": "ost-cloudfront-lambda",
-  "version": "9.0.0",
+  "version": "10.0.0",
   "description": "Edge Lambda Scripts for Setting Content-Security-Policy Response Headers",
   "main": "index.js",
   "directories": {
